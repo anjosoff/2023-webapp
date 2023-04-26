@@ -1,16 +1,23 @@
-
 {
-    "name": "2023-webapp",
-    "version": "1.0.0",
-    "description": "Projeto de exemplo da disciplina de Programação Orientada a Serviço",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "dotenv": "^16.0.3"
-    }
-  }
+  "name": "2023-webapp",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo da disciplina de Programação Orientada a Serviço",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjosoff/2023-webapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anjosoff/2023-webapp/issues"
+  },
+  "homepage": "https://github.com/anjosoff/2023-webapp#readme"
+}
