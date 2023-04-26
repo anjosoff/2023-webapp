@@ -17,5 +17,7 @@ Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
 ## Log do projeto
 | Data | Descrição |
+| --- | --- |
 | 26/04/2023 | Proj. HTML |
+| 26/04/2023 | Configs js |
 
