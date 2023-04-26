@@ -10,7 +10,12 @@ Localidade: IFRN-CNAT-DIATINF
 
 Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
+
+## Autor
+[Guilherme Oliveira dos Anjos](https://github.com/anjosoff)
+
+
 ## Log do projeto
 | Data | Descrição |
-| --- | --- |
+| 26/04/2023 | Proj. HTML |
 
